@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    display: flex;
+    flex: 1;
+}
+
+.logo {
+
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    height: 10vh;
+    width: 50vw;
+    padding-top: 10px;
+    padding-left: 200px;
+
+}
+
+.items {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    width: 50vw;
+    justify-content: space-around;
+    padding-top: 10px;
+    flex: 1;
+}
+
+.all {
+    display: flex;
+    background-color: #1f2937;
+    padding-top: 100px;
+    padding-left: 200px;
+    height: 70vh;
+}
+
+.main {
+    width: 400px;
+}
+
+.text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+
+}
+
+.text-2 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    background-color: #3882f6;
+}
+
+.jordan {
+    height: 600px;
+    width: 600px;
+    margin-left: 200px;
+}
+
+.more {
+
+    height: 500px;
+}
+
+.random {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.shoes {
+    display: flex;
+    padding-top: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+.shoe-1 {
+
+    width: 300px;
+}
+
+.shoe-2 {
+    width: 300px;
+
+
+}
+
+.shoe-3 {
+    width: 270px;
+
+}
+
+.shoe-4 {
+
+    width: 250px;
+}
+
+.quote {
+    height: 500px;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
+
+.saying {
+    display: flex;
+    width: 600px;
+    padding-top: 159px;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: 600px;
+
+}
+
+.author {
+    margin-left: 1000px;
+}
+
+.call {
+    height: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action {
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    height: 200px;
+    width: 60vw;
+    padding-top: 100px;
+    padding-left: 100px;
+    justify-content: space-around;
+}
+
+.signup {
+    border: 1px solid white;
+}
+
+footer {
+    height: 200px;
+    background-color: #1f2937;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
